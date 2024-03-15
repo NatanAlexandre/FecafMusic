@@ -3,6 +3,7 @@
 * {
     padding: 0px;
     margin: 0px;
+    overflow: hidden;
 }
 
 
@@ -10,7 +11,6 @@
 
     body {
         width: 100vw;
-        overflow: hidden;
         background-color: #05072F;
     }
 
@@ -142,7 +142,6 @@
 @media (min-width: 768px) and (max-width: 1024px) {
     body {
         width: 100vw;
-        overflow-x: hidden;
     }
 
     /* HEADER */
@@ -280,7 +279,6 @@
 @media (max-width: 767px) {
     body {
         width: 100vw;
-        overflow-x: hidden;
     }
 
     /* HEADER */
